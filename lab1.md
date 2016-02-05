@@ -10,3 +10,7 @@
 ## 8. License Must Not be Specific to a Product: if it is and the product is not open source, the licensed software must still be usable as if it weren't attached to the product
 ## 9. License Must Not Restrict Other Software: not sure why this is important
 ## 10. License Must Be Technology-Neutral: if the license only works for an individual technology, the software won't be open source because it excludes people who use other technologies
+
+# How To Answer Questions in a Helpful Way
+## The list pretty much covers it. I would add upvoting good answers that work instead of just repeating the answer or not upvoting at all.
+## Can't think of anything else except for agreeing with/stressing answering the actual question.
