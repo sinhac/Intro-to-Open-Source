@@ -33,15 +33,10 @@ Named my repository the-cookie-clique and I selected the Apache license for it.
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/Polaritech/Slick | Yes | MIT License
----------|:----------|:-------
 https://github.com/liyiyang1854/Sound_Analysis | No | N/A
----------|:----------|:-------
 https://github.com/andykais/telebum | Yes | MIT License
----------|:----------|:-------
 https://github.com/lusilva/fundo | Yes | MIT License
----------|:----------|:-------
 https://github.com/ametrocavich/WeirdSideofYouTube/blob/master/LICENSE.md | Yes | MIT License
----------|:----------|:-------
 
 ## This Course's Project
 I'm thinking about writing a fitbit app because I want to do something health related on a device I've seen many people use. I'm not sure exactly what I want to track or do yet but I'm leaning toward something involving sleep cycles. The users/customers will be comprised of Fitbit owners. I want to use a license that allows other people to be able to expand my program, so perhaps...a GPL? 
