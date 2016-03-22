@@ -18,4 +18,4 @@
         * between most recent commit and index: git diff –cached
     3. Git tagging is for tagging specific points in history as being important (e.g. a software release). The commit id can be found using git log.
     4. [Course Project Repository](https://github.com/sinhac/courseproject)
-        * [References.md]()
+        * [References.md](https://github.com/sinhac/Intro-to-Open-Source/blob/master/Lab3/References.md)
