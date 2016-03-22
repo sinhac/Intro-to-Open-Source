@@ -13,9 +13,9 @@
 3. Part Three
     1. [Pull Request with ChandrikaSinha.Md](https://github.com/sinhac/TrialRepoLabThree/blob/master/ChandrikaSinha.md)
     2. Shows the differences between two files
-        *between working directory and index: git diff
-        *between working directory and most recent commit: git diff HEAD
-        *between most recent commit and index: git diff –cached
+        * between working directory and index: git diff
+        * between working directory and most recent commit: git diff HEAD
+        * between most recent commit and index: git diff –cached
     3. Git tagging is for tagging specific points in history as being important (e.g. a software release). The commit id can be found using git log.
     4. [Course Project Repository](https://github.com/sinhac/courseproject)
-        *[References.md]()
+        * [References.md]()
