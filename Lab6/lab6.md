@@ -20,11 +20,11 @@
   - run gitstats <path to project1 git repo> <output path>
   - see output in browser
 3. Compare
-  - Project (40): observatory
-  - Project (41): csci2963
-  - Project (42): asters
-  - Project (43): emacs
-  - Project (44): go
+  - [observatory]()
+  - [csci2963]()
+  - [asters]()
+  - [emacs]()
+  - [go]()
 
 ## Section 3: Streaming Contribution Visualizations
 - Read the webpage. The guy got a New Zealand Open Source award thingy, that's pretty cool!
