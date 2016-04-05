@@ -1,0 +1,13 @@
+Index: book.xml
+===================================================================
+--- book.xml	(revision 48468)
++++ book.xml	(working copy)
+@@ -185,7 +185,7 @@
+ 
+         <para>
+             After providing definitions of terms used, this document will outline
+-            the organisational structure (including role descriptions and
++            the organizational structure (including role descriptions and
+             communication lines),
+             discuss the methodology model and after presenting the
+             tools used for process control, it will present the defined
