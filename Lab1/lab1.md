@@ -14,7 +14,7 @@
  The list pretty much covers it. I would add upvoting good answers that work instead of just repeating the answer or not upvoting at all.
  Can't think of anything else except for agreeing with/stressing answering the actual question.
  
-![Tree Screenshot](/home/sinhac/Dropbox/Classes/Open_Source/Intro-to-Open-Source/Lab1/images/TreeScreenshot.jpg)
+![Tree Screenshot](images/TreeScreenshot.jpg)
 
 ![Reg Ex Practice](images/RegExPractice.png)
  
