@@ -3,8 +3,8 @@
     2. [Mars Branch](https://github.com/sinhac/TrialRepoLabThree/tree/mars)
     3. [Jupiter Branch](https://github.com/sinhac/TrialRepoLabThree/tree/jupiter)
     4. gitk --all vs. git log
-        * [Gitk All](https://github.com/sinhac/TrialRepoLabThree/blob/master/gitAll.png) 
-        * [Git Log](https://github.com/sinhac/TrialRepoLabThree/blob/master/secondCommand.png)
+        * [Gitk All](images/gitAll.png) 
+        * [Git Log](images/secondCommand.png)
 2. Part Two
     1. [Forking the Spoon-Knife Repository](https://github.com/sinhac/TrialRepoLabThree)
     2. Successfully cloned Spoon-Knife
