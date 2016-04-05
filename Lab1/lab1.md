@@ -15,8 +15,8 @@
 ## The list pretty much covers it. I would add upvoting good answers that work instead of just repeating the answer or not upvoting at all.
 ## Can't think of anything else except for agreeing with/stressing answering the actual question.
 # 
-![My Picture](images/RegExPractice.png)
-![My Picture](images/Snaply.png)
-![My Picture](images/Tutorial.png)
+![Reg Ex Practice](images/RegExPractice.png)
+![Snaply](images/Snaply.png)
+![Tutorial](images/Tutorial.png)
 
 # I'm thinking about writing a fitbit app because I want to do something health related on a device I've seen many people use. I'm not sure exactly what I want to track or do yet but I'm leaning toward something involving sleep cycles. I need to first look at the API's needed to write this app. After I learn some of the language and see that I have the resources needed, I can figure out the exact purpose of the app and take baby steps towards completing it.
