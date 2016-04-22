@@ -1,0 +1,7 @@
+$e^{i\pi}=1$
+\\
+$E=mc^2$
+\\
+$P=NP$ or $P\neq NP$
+
+Can practice here: http://www.artofproblemsolving.com/texer
