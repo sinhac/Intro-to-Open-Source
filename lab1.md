@@ -1,1 +1,0 @@
-![My Picture](images/TreeScreenshot.jpg)
