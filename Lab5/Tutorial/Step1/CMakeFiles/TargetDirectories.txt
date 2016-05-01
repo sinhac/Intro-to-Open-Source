@@ -1,1 +1,0 @@
-/home/sinhac/Dropbox/Classes/Open_Source/Intro-to-Open-Source/Lab5/Tutorial/Step1/CMakeFiles/Tutorial.dir

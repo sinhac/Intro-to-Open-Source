@@ -1,0 +1,1 @@
+I know who is in my group now but I haven't made any progress apart from that. We might end up working with Raspberry Pi. 
